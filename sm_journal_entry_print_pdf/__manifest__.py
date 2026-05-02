@@ -8,7 +8,7 @@ Print Journal Entry PDF
 
 Add a dedicated PDF report for journal entries with journal information, reference, partner, analytic distribution, taxes, debit, credit, and approval signature blocks.
     """,
-    "version": "19.0.1.0.0",
+    "version": "18.0.1.0.0",
     "author": "Steven Marp",
     "website": "https://apps.odoo.com/apps/browse?repo_maintainer_id=512936",
     "category": "Accounting",
