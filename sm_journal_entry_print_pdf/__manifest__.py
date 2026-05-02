@@ -17,10 +17,10 @@ Add a dedicated PDF report for journal entries with journal information, referen
     "data": [
         "report/journal_entry_report.xml",
     ],
-    "images": ["static/description/banner.jpg"],
+    "images": ["static/description/banner.gif"],
     "installable": True,
     "application": False,
     "auto_install": False,
-    "price": 9.98,
+    "price": 3.68,
     "currency": "USD",
 }
